@@ -1,0 +1,16 @@
+.elementor-110 .elementor-element.elementor-element-4091ac8 > .elementor-container{max-width:1373px;}.elementor-110 .elementor-element.elementor-element-4091ac8 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-110 .elementor-element.elementor-element-4091ac8{overflow:hidden;border-style:solid;border-width:03px 0px 0px 0px;border-color:#732B2B;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:-117px;z-index:1;}.elementor-110 .elementor-element.elementor-element-4091ac8:not(.elementor-motion-effects-element-type-background), .elementor-110 .elementor-element.elementor-element-4091ac8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#00000000;}.elementor-110 .elementor-element.elementor-element-4091ac8 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-110 .elementor-element.elementor-element-09ca452{text-align:left;z-index:1;}.elementor-110 .elementor-element.elementor-element-09ca452 img{width:26%;}.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-menu-toggle{margin:0 auto;}.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu .elementor-item{font-family:"Noto Sans JP", Sans-serif;font-size:18px;font-weight:900;text-transform:uppercase;letter-spacing:-1px;word-spacing:0px;}.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;padding-left:23px;padding-right:23px;padding-top:7px;padding-bottom:7px;}.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu--main .elementor-item:focus{color:#732B2B;fill:#732B2B;}.elementor-110 .elementor-element.elementor-element-b3a2b51{--e-nav-menu-horizontal-menu-item-margin:calc( 14px / 2 );z-index:1;}.elementor-110 .elementor-element.elementor-element-b3a2b51 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:14px;}@media(min-width:768px){.elementor-110 .elementor-element.elementor-element-9104a46{width:28.947%;}.elementor-110 .elementor-element.elementor-element-c2c5b82{width:71.053%;}}/* Start custom CSS for section, class: .elementor-element-4091ac8 */#header.elementor-sticky--effects {
+background-color: #fff;
+transition: all .5s ease;
+box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+#header.elementor-sticky--effects .logo img {
+content:url('http://localhost/siteteste/wp-content/uploads/2022/04/entrega-rapida.png');
+}
+
+#header.elementor-sticky--effects .roblox li a {
+color: #732B2B!important;
+}/* End custom CSS */
